@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # API Automation Framework
 
 A clean, scalable Python + pytest framework for CRUD API testing with detailed HTML reporting.
@@ -158,4 +158,4 @@ This project is for educational and testing purposes.
 =======
 # CURD-Claude-pytest-api-framework
 CRUD API automation framework using pytest with modular structure, separate test files, reusable API client, and HTML reporting with timestamp.
->>>>>>> d2c2d9b9f7b9446d4f675594dd14bd201a8cb06e
+
